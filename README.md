@@ -1,2 +1,3 @@
 # hello-world
-welcome to github
+
+Prepare for coding
